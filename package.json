@@ -3,8 +3,8 @@
   "version": "1.0.0",
   "description": "Example project showing Red Bull Racing garage clock",
   "dependencies": {
-    "@oracle/oraclejet": "~15.0.0",
-    "@oracle/oraclejet-core-pack": "~15.0.0"
+    "@oracle/oraclejet": "~16.0.10",
+    "@oracle/oraclejet-core-pack": "~16.0.10"
   },
   "devDependencies": {
     "@oracle/ojet-cli": "~15.0.0",
