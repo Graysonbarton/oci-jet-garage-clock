@@ -1,4 +1,4 @@
-FROM nginx:1.27.1-alpine-slim
+FROM nginx:1.27.4-alpine-slim
 
 RUN apk add --update nodejs npm
 
